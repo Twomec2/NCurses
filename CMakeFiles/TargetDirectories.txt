@@ -1,0 +1,3 @@
+/Users/mec/kowalikto76735_at_5888/ncurses/CMakeFiles/rebuild_cache.dir
+/Users/mec/kowalikto76735_at_5888/ncurses/CMakeFiles/edit_cache.dir
+/Users/mec/kowalikto76735_at_5888/ncurses/CMakeFiles/main.dir
